@@ -1,0 +1,5 @@
+1 -https://pokeapi.co/api/v2/pokemon/5
+2-https://pokeapi.co/api/v2/pokemon/blaze
+3- https://pokeapi.co/api/v2/pokemon/6	
+4- https://pokeapi.co/api/v2/pokemon/aron
+5-https://pokeapi.co/api/v2/pokemon/10
